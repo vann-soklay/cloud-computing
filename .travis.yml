@@ -5,6 +5,3 @@ cache: yarn
 
 install:
 - yarn install
-
-script:
-- yarn test
